@@ -45,7 +45,7 @@ header{
     transform: translate(-50%);
     cursor: pointer;
     z-index: 1500;
-    display: none;
+/*     display: none; */
 }
 
 nav{
