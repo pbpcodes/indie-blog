@@ -214,10 +214,10 @@ li.move-right{
         display: none;
     }
     nav.active .ion-md-close{
-        display: block;
+        display: none;
     }
     nav.active .ion-md-menu{
-        display: none;
+        display: block;
     }
 
     nav.active .nav-list{
